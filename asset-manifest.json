@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/NewTask/static/css/main.4af0e6af.chunk.css",
+    "main.js": "/NewTask/static/js/main.6dd88b72.chunk.js",
+    "main.js.map": "/NewTask/static/js/main.6dd88b72.chunk.js.map",
+    "runtime-main.js": "/NewTask/static/js/runtime-main.719c0c12.js",
+    "runtime-main.js.map": "/NewTask/static/js/runtime-main.719c0c12.js.map",
+    "static/css/2.3713d210.chunk.css": "/NewTask/static/css/2.3713d210.chunk.css",
+    "static/js/2.e8be6cac.chunk.js": "/NewTask/static/js/2.e8be6cac.chunk.js",
+    "static/js/2.e8be6cac.chunk.js.map": "/NewTask/static/js/2.e8be6cac.chunk.js.map",
+    "index.html": "/NewTask/index.html",
+    "static/css/2.3713d210.chunk.css.map": "/NewTask/static/css/2.3713d210.chunk.css.map",
+    "static/css/main.4af0e6af.chunk.css.map": "/NewTask/static/css/main.4af0e6af.chunk.css.map",
+    "static/js/2.e8be6cac.chunk.js.LICENSE.txt": "/NewTask/static/js/2.e8be6cac.chunk.js.LICENSE.txt",
+    "static/media/s1.b87ef408.jfif": "/NewTask/static/media/s1.b87ef408.jfif",
+    "static/media/s2.5294f090.jfif": "/NewTask/static/media/s2.5294f090.jfif",
+    "static/media/s3.bfc39301.jfif": "/NewTask/static/media/s3.bfc39301.jfif",
+    "static/media/s4.d85198ac.jfif": "/NewTask/static/media/s4.d85198ac.jfif",
+    "static/media/s5.06cfd6ff.jfif": "/NewTask/static/media/s5.06cfd6ff.jfif",
+    "static/media/s6.4b8a2ad4.jfif": "/NewTask/static/media/s6.4b8a2ad4.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.719c0c12.js",
+    "static/css/2.3713d210.chunk.css",
+    "static/js/2.e8be6cac.chunk.js",
+    "static/css/main.4af0e6af.chunk.css",
+    "static/js/main.6dd88b72.chunk.js"
+  ]
+}
